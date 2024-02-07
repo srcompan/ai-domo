@@ -1,0 +1,2 @@
+# ai-domo
+arificial inteligence
